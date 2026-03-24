@@ -638,7 +638,6 @@
 				<configuration>
 					<publishingServerId>central</publishingServerId>
 					<!--<waitUntil>published</waitUntil>-->
-					<ins>true</ins>
 				</configuration>
 			</plugin>
 		</plugins>
